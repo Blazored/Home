@@ -1,3 +1,5 @@
+![Blazored](https://avatars3.githubusercontent.com/u/39194025?s=200&v=4)
+
 # Home
 The home repo for Blazored.
 
