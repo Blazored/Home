@@ -1,2 +1,4 @@
 # Home
-The home repo for Blazored, used to track issue which span across multiple projects in the collection.
+The home repo for Blazored.
+
+Please use this repo to raise issues for new projects or raise issues which span multiple projects.
