@@ -4,4 +4,4 @@
 
 ---
 
-Please use this repo to raise issues for new projects or raise issues which span multiple projects.
+Please use this repo to raise issues for new projects or issues which span multiple projects.
